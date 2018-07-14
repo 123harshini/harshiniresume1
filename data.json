@@ -1,0 +1,51 @@
+{
+  "basics":{
+    "name":"HARSHINI RUTTALA",
+    "email":"harshiniruttala34@gmail.com",
+    "mobile":"+91 9988776655"
+  },
+
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+
+},
+"education":[
+  {
+    "degree":"B.Tech(C.S.E)",
+    "institute":"Avanthi",
+    "data":["2015-19","75%"]
+},
+ {
+ "degree":"Intermediate",
+ "institute":"Narayana Junior College",
+ "data":["2013-15","88"]
+},
+ {
+ "degree":"S.S.C",
+ "institute":"ST.Anne's English Medium School",
+ "data":["2013","90%"]
+}
+],
+"skills":[
+  {
+    "title":"Programming Languages",
+    "info":["C","C++","Java"]
+  },
+{
+  "title":"DataBases",
+  "info":["MongoDb","MySql"]
+},
+{
+  "title":"Web Technologies",
+  "info":["HTML5","CSS3","JavaScript"]
+},
+{
+  "title":"Libraries & Frameworks",
+  "info":["Ionic","Angular","Expressjs"]
+},
+{
+"title":"Operating Systems",
+"info":["Linux","Windows","Dos"]
+}
+]
+}
